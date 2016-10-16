@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 /*
  * Ultrasonic Range Finder
  *
