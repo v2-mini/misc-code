@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x    CMakeFiles/key_logger.dir/main.cpp.o  -o key_logger -rdynamic -lSDL2 
